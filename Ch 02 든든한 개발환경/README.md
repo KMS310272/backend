@@ -1,4 +1,4 @@
-# backend
+# backend 공부하기
 ## Ch2 개발 환경
 ### NodeJS 설치와 Node 버전 관리 하기
 
