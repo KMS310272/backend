@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KMS310272/backend/issues"
   },
-  "homepage": "https://github.com/KMS310272/backend#readme"
+  "homepage": "https://github.com/KMS310272/backend#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
